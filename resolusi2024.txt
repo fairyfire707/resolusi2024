@@ -1,3 +1,5 @@
 Resolusi okta 2024
 -konsisten mempelajari backend dev kemudian jadi iot aplication developer
 -membuat 1 web dummy untuk pembacaan sensor 
+-membuat anjay 2
+-membuat ajnya3 
